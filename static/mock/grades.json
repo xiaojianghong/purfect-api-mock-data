@@ -1,0 +1,21 @@
+{
+    "code":1000,
+    "msg" :"",
+    "data": {
+        "grades": {
+            "name": "二班",
+            "teacher": "班主任",
+            "monitor": "班长",
+            "number" : {
+                "total" : "20", 
+                "man"   : "10", 
+                "woman" : "10" 
+        },
+        "photo": [  
+                {"class_img" : "xxx/xxx.jpg"},
+                {"class_img" : "xxx/xxx.jpg"},
+                {"class_img" : "xxx/xxx.jpg"}
+            ]
+        }
+    }
+  }
