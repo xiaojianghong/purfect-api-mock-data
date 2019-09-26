@@ -1,0 +1,22 @@
+{
+    "code": 1000,
+    "msg": "",
+    "data": [
+        {
+            "course_number": "5",
+            "config_starttime": "16:00:00",
+            "config_endtime": "16:45:00",
+            "course_room": "教学楼A栋101室",
+            "course_teacher": "王老师",
+            "course_name": "计算机科学"
+        },
+        {
+            "course_number": "5",
+            "course_time": "17:10:00",
+            "course_time": "17:55:00",
+            "course_room": "教学楼A栋101室",
+            "course_teacher": "王老师",
+            "course_name": "计算机科学"
+        }
+    ]
+}
