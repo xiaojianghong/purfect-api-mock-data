@@ -1,0 +1,18 @@
+/***************************
+  通知公告--公告列表接口
+  需要传入page进行加载刷新
+************************/
+{
+  "code": "1000",
+  "message": "公告列表",
+  "data": [
+      {
+          "ticeid": "1",
+          "tice_title": "中企或中标'红死运河'项目 助中国加强中东影响力",
+          "tice_keyword": "报道称，如果中国公司获胜",
+          "tice_content": "通知内容",
+          "webview_url": "/api/index/getpageinfo/type/2/id/1//---详情hmtl5",
+          "create_time": "1491987701"
+      }
+  ]
+}
