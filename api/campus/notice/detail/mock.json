@@ -1,0 +1,21 @@
+{
+  "code": "1000",
+  "message": "通知详情",
+  "data":
+      {
+          "ticeid": "1",
+          "tice_title": "中企或中标'红死运河'项目 助中国加强中东影响力",
+          "tice_content": "据俄罗，也小得多。",//----内容
+          "webview_url": "/api/index/getpageinfo/type/2/id/1",//---详情hmtl5
+          "create_time": "1491987701",
+          "subjectlist": [
+          {
+              "subjoinid": "5",//---附件id
+              "subjoin_name": "1",//---附件图片名称
+              "subjoin_savename": "5a43e714afcfb.jpg",//----附件图片本地存储名称
+              "subjoin_url": "/Uploads/upload/20171228/5a43e714afcfb.jpg",//----附件云端下载地址
+              "subjoin_ext": "jpg",//---文件后缀名
+              }
+      ]
+    }
+}
